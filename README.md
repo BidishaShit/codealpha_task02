@@ -7,12 +7,12 @@ This project aims to predict the stock prices of Tesla using machine learning te
 The dataset used in this project comprises historical stock price data for Tesla. This dataset contains features such as data, opening price, closing price, highest price, lowest price, trading volume and adjusted closing price.
 ## Setup and Dependencies
 This project is implemented in a Jupyter notebook environment. Below are the dependencies required to run the notebook:
-Python 3.x
-Pandas
-NumPy
-Matplotlib
-Seaborn
-Scikit-learn
+1. Python 3.x
+2. Pandas
+3. NumPy
+4. Matplotlib
+5. Seaborn
+6. Scikit-learn
 ## Data Preprocessing
 Before training the predictive model, the dataset undergoes preprocessing steps, which include:
 Handling missing values
